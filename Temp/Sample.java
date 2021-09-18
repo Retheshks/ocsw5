@@ -1,0 +1,7 @@
+class Sample
+{
+	PSVM()
+	{
+		SOP("");
+	}
+}
